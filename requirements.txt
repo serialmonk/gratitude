@@ -30,5 +30,5 @@ sqlparse==0.3.1
 tqdm==4.48.2
 urllib3==1.25.10
 w3lib==1.22.0
-websockets==8.1
+websockets==9.1
 whitenoise==5.1.0
